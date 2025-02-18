@@ -1,0 +1,28 @@
+# Standard ignore stuff
+__pycache__/
+dist/
+build/
+*.egg-info/
+*.egg
+*.pyc
+*.log
+*.sqlite3
+venv/
+.venv
+*.so
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+# Cache files
+.cache
+
+# VS Code settings
+.vscode/settings.json
+
+# Specific files
+eda_exercise_solution.ipynb

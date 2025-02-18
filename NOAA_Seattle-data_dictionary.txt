@@ -1,0 +1,16 @@
+**Data dictionary for NOAA data:**  
+STATION: Weather station ID.  
+NAME: Weather station name.  
+DATE: Date.  
+AWND: Average daily wind speed.  
+PGTM: Peak gust time, the time of the peak wind gust.  
+PRCP: Precipitation, the total amount of precipitation for the day.  
+SNOW: Snowfall, the total amount of snowfall for the day.  
+SNWD: Snow depth, the depth of snow on the ground.  
+TAVG: Average temperature for the day.  
+TMAX: Maximum temperature for the day.  
+TMIN: Minimum temperature for the day.  
+WDF2: Direction of the fastest 2-minute wind.  
+WDF5: Direction of the fastest 5-minute wind.  
+WSF2: Fastest 2-minute wind speed.  
+WSF5: Fastest 5-minute wind speed.

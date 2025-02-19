@@ -25,5 +25,4 @@ Thumbs.db
 .vscode/settings.json
 
 # Specific files
-eda_exercise_solution.ipynb
 eda_exercise_demo.ipynb
